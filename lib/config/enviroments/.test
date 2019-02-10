@@ -1,0 +1,7 @@
+# -Database Settings
+DB_HOST=postgresdb
+DB_NAME=csli_test
+DB_USER=postgres
+DB_PASS=postgres
+DB_PORT=5432
+#-------------------------------

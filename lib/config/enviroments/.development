@@ -1,0 +1,16 @@
+# -Database Settings
+DB_HOST=postgresdb
+DB_NAME=csli_prod
+DB_USER=postgres
+DB_PASS=postgres
+DB_PORT=5432
+DUMP_FOLDER='./db/dumps'
+#-------------------------------
+# -Database Settings
+DB_HOST=postgresdb
+DB_NAME=csli_dev
+DB_USER=postgres
+DB_PASS=postgres
+DB_PORT=5432
+DUMP_FOLDER='./db/dumps'
+#-------------------------------

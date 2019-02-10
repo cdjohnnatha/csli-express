@@ -1,0 +1,12 @@
+# ----- Database Settings
+DB_HOST=postgresdb
+DB_NAME=csli_prod
+DB_USER=postgres
+DB_PASS=postgres
+DB_PORT=5432
+DUMP_FOLDER='./db/dumps'
+
+BACKUP_MINUTES=59
+BACKUP_HOURS=*/23
+BACKUP_DAY_OF_WEEK=3
+
